@@ -11,3 +11,6 @@ indent_size = 4
 
 [Gemfile]
 indent_size = 2
+
+[.jshintrc]
+indent_size = 2

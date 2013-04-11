@@ -5,13 +5,19 @@ This serves for demonstrating the TDD patterns _Obvious Implementation, Fake it 
 
 # Start hacking
 
-## Install dependencies
+## Install core dependencies
 
     bundle install
 
 If you are not on OS X, you are better off with
 
     bundle install --without osx
+
+
+## Install optional dependencies
+
+    npm install -g jshint
+
 
 ## Start testing
 

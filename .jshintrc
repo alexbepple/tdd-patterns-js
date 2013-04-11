@@ -1,0 +1,14 @@
+{
+  "undef": true,
+  "globals": {
+    "jasmine": true, "describe": true, "it": true, "expect": true, "beforeEach": true, "afterEach": true, "spyOn": true, "xdescribe": true, "xit": true
+  },
+  "unused": true,
+  "camelcase": true,
+  "eqeqeq": true,
+  "forin": true,
+  "immed": true,
+  "latedef": true,
+  "newcap": true,
+  "quotmark": "single"
+}
